@@ -11,6 +11,8 @@ ports:
     password: "random_password"
     loginTitle: "GTP researcher"
 environments:
+  - key: "SOFTWARE_VERSION_TAG"
+    value: "latest"
   - key: "ADMIN_PASSWORD"
     value: "random_password"
   - key: "OPENAI_API_KEY"
