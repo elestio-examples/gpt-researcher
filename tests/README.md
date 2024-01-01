@@ -10,7 +10,7 @@
 
 [GPT researcher](https://github.com/assafelovic/gpt-researcher), GPT based autonomous agent that does online comprehensive research on any given topic.
 
-<img src="https://github.com/elestio-examples/gpt-researcher/blob/main/gpt-researcher.png" alt="gpt researcher" width="800">
+<img src="https://github.com/elestio-examples/gpt-researcher/raw/main/gpt-researcher.png" alt="gpt researcher" width="800">
 
 Deploy a <a target="_blank" href="https://elest.io/open-source/gpt-researcher">fully managed neko</a> on <a target="_blank" href="https://elest.io/">elest.io</a> if you want automated backups, reverse proxy with SSL termination, firewall, automated OS & Software updates, and a team of Linux experts and open source enthusiasts to ensure your services are always safe, and functional.
 
